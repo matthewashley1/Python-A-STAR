@@ -10,7 +10,7 @@ ___
 
 ## Game Play
 
-![play](https://github.com/matthewashley1/Snake_A-star)
+![play](https://github.com/matthewashley1/Snake_A-star/blob/master/img/snake_A*.gif)
 
 ___
 
