@@ -1,5 +1,5 @@
 
-# Python_A-STAR
+# Python-A-STAR
 
 [![GitHub license](https://img.shields.io/bower/l/mi.svg?style=for-the-badge)](https://img.shields.io/bower/l/:packageName.svg)
 
