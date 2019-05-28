@@ -1,5 +1,5 @@
 
-# Snake_A-star
+# Python_A-STAR
 
 [![GitHub license](https://img.shields.io/bower/l/mi.svg?style=for-the-badge)](https://img.shields.io/bower/l/:packageName.svg)
 
@@ -16,4 +16,4 @@ ___
 
 ## License
 
-Snake_A-star is released under the [MIT](https://opensource.org/licenses/MIT) license
+Python-A-STAR is released under the [MIT](https://opensource.org/licenses/MIT) license
