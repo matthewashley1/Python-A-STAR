@@ -5,7 +5,7 @@
 
 Terminal snake game in python 2.7 with A* path finding algorithm implemented
 
-Base of game is taken from Sanchit Gangwar at [LINK](https://gist.github.com/sanchitgangwar/2158089)
+Base of game is taken from [Sanchit Gangwar](https://gist.github.com/sanchitgangwar/2158089)
 ___
 
 ## Game Play
